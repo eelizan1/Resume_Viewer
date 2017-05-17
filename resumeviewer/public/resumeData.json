@@ -1,39 +1,39 @@
 {
   "main": {
     "name":"Enrico Elizan Jr.",
-    "occupation":"Web developer, programmer, and designer.",
+    "occupation":"Developer | Programmer | Creative",
     "description":"I have an affinity for building applications of all types.",
     "image":"profilepic.jpg",
-    "bio":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
-    "email": "eelizanjr@gmail.com",
+    "bio":"Hello, my name is Enrico Elizan Jr. Recently graduated from Georgia State University with a Bachelors in Computer Science, I'm emerging into the programming world with the goal to create and be a part of beautiful projects and applications. Difficult projects are the reason I do this, life isn't fun without challenges! Don't hesitate to contact me for any work or collaborations!" ,
+    "email": "eelizan1@student.gsu.edu",
     "phone": "678-517-4706",
     "address":{
-      "street":"933 Albany st, Suite 3",
-      "city":"Atlanta",
+      "street":"5315 Derby Chase Court",
+      "city":"Alpharetta",
       "state":"Ga",
-      "zip": "30022"
+      "zip": "30005"
     },
-    "website": "http://www.techguywebsolutions.com",
+    "website": "eelizanjr@gmail.com",
     "resumedownload":"http://something.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com",
+        "url":"https://www.facebook.com/eelizanjr",
         "className":"fa fa-facebook"
       },
       {
         "name":"linkedin",
-        "url":"http://linkedin.com",
+        "url":"https://www.linkedin.com/in/enrico-elizan-jr-785a2581/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com",
+        "url":"https://www.instagram.com/e.elizanjr/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com",
+        "url":"https://github.com/eelizan1",
         "className":"fa fa-github"
       }
     ]
@@ -41,55 +41,61 @@
   "resume":{
     "education":[
       {
-        "school":"University of Life",
-        "degree":"Master in Graphic Design",
-        "graduated":"April 2007",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "school":"Georgia State University",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"May 2017",
+        "description":"The B.S. degree program in computer science at GSU provides preparation in the fundamental principles and processes of computation and training in applying these principles in application areas in industry, science, government, and business. "
       },
       {
-        "school":"School of Cool Designers",
-        "degree":"B.A. Degree in Graphic Design",
-        "graduated":"March 2003",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "school":"Alpharetta High School",
+        "degree":"High School Diploma",
+        "graduated":"May 2010",
+        "description":"Located in Alpharetta, Ga"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX Designer ",
-        "years":"March 2010 - Present",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+        "company":"CETL, Georgia State University, Downtown Campus",
+        "title":"Information Technology Support Technician",
+        "years":"May 2016 - May 2017",
+        "description":"Working in a fast-paced, higher education institution accountable to ensure that all of our student's instructional experiences are effective, efficient and productive through the following primary activities: Set up, maintain, configure and administer classroom software such as Panapto and Pharos, Provide desktop support through troubleshooting PC Desktop and Telecom related problems, and  Proactively respond to requests for technical assistance in person and via phone."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"UX Designer",
-        "years":"March 2007 - February 2010",
-        "description":"This is Photoshops version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat"
+        "company":"IS&T, Georgia State University, Alpharetta Campus",
+        "title":"Student Technician ",
+        "years":"August 2015 - May 2016",
+        "description":"Working in a fast-paced, higher education institution accountable to ensure that all of our student's instructional experiences are effective, efficient and productive through the following primary activities: Set up, maintain, configure and administer classroom software such as Panapto and Pharos, Provide desktop support through troubleshooting PC Desktop and Telecom related problems, and  Proactively respond to requests for technical assistance in person and via phone."
+      },
+      {
+        "company":"Delta Dental Insurance",
+        "title":"Summer Intern",
+        "years":"June 2014 - August 2014",
+        "description":"Was hand selected based upon grades, academic achievement, and domain knowledge to work in an industry-leading Insurance organization to provide their employees best-in-class Information Technology support. Following duties included: Queried and maintained the MetaVance database using Oracle SQL, assisted in administering Windows/Linux servers, assisted in administering storage discs of the AS400 database, provided desktop support by troubleshooting PC desktop / telecommunications related problems, and responded to requests for technical assistance in person and via phone "
       }
     ],
     "skills":[
       {
-        "name":"Photoshop",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"Wordpress",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"Java",
         "level":"80%"
       },
       {
-        "name":"jQuery",
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"60%"
+      },
+      {
+        "name":"Reactjs",
+        "level":"60%"
+      },
+      {
+        "name":"Expressjs",
         "level":"50%"
       }
     ]
@@ -97,76 +103,40 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Coffee Cup",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "title":"Smart Fridge",
+        "description":"Using Raspberry Pi to repeatedly fetch product data from a fridge and execute specific operations accordingly – reorder from an ecommerce site, notify user, CRUD operations",
         "category":"Illustrator",
         "tags":"Branding, Web Design",
-        "image":"coffee.jpg",
-        "url":"http://port1.com",
+        "image":"smartfridge.jpg",
+        "url":"https://github.com/eelizan1/smart_fridge_final",
         "modal":"#modal-01"
       },
       {
-        "title":"Console",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "title":"Conway's Game of Life",
+        "description":"Built using Javascript. The Game of Life, also known simply as Life, is a cellular automaton game.The game is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input.",
         "category":"Web Design",
         "tags":"Branding, Web Development",
-        "image":"console.jpg",
-        "url":"http://port2.com",
+        "image":"gameoflife.jpg",
+        "url":"https://github.com/eelizan1/Conways_Game_of_Life",
         "modal":"#modal-02"
       },
       {
-        "title":"Judah",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "title":"Dijkstra's Algorithm with Binary Heaps",
+        "description":"Finds the shortest path of nodes and edges from a text file with a time complexity of O(ELogV)",
         "category":"Web Development",
         "tags":"Branding, Web Programming",
-        "image":"judah.jpg",
-        "url":"http://port3.com",
+        "image":"algo.jpg",
+        "url":"https://github.com/eelizan1/Dikjstra_with_Binary_Heaps",
         "modal":"#modal-03"
       },
       {
-        "title":"Into The Light",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Design",
-        "image":"into-the-light.jpg",
-        "url":"http://port4.com",
+        "title":"Game Store",
+        "description":"Fully functional E-Commerce platform built with the LAMP stack and the Codeignighter framework.",
+        "category":"",
+        "tags":"",
+        "image":"gamestore.jpg",
+        "url":"https://github.com/eelizan1/Game_Store",
         "modal":"#modal-04"
-      },
-      {
-        "title":"Farmer Boy",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Branding",
-        "tags":"Branding, Web Design",
-        "image":"farmerboy.jpg",
-        "url":"http://port5.com",
-        "modal":"#modal-05"
-      },
-      {
-        "title":"Girl",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Photography",
-        "tags":"Photography, Graphic Design",
-        "image":"girl.jpg",
-        "url":"http://port6.com",
-        "modal":"#modal-06"
-      },
-      {
-        "title":"Origami",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Illustration",
-        "tags":"Branding, Illustration",
-        "image":"origami.jpg",
-        "url":"http://port7.com",
-        "modal":"#modal-07"
-      },
-      {
-        "title":"Retrocam",
-        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
-        "category":"Web Development",
-        "tags":"Photography",
-        "image":"retrocam.jpg",
-        "url":"http://port8.com",
-        "modal":"#modal-08"
       }
     ]
   },
